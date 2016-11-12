@@ -1,0 +1,7 @@
+install:
+  - mvn clean install
+
+test_script:
+  - mvn test 
+
+build: off
